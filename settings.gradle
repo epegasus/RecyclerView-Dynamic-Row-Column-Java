@@ -12,5 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "RecyclerView_Dynamic_Rows_Columns"
+
+rootProject.name = "RecyclerView Dynamic Rows Columns"
 include ':app'
