@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">RecyclerView_Dynamic_Rows_Columns</string>
+    <string name="app_name">RecyclerView Dynamic Rows Columns</string>
     <string name="rows">Rows</string>
     <string name="column">Column</string>
     <string name="generate">Generate</string>
