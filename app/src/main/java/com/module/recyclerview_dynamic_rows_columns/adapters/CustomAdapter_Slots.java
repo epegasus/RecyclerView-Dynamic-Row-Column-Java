@@ -63,5 +63,4 @@ public class CustomAdapter_Slots extends RecyclerView.Adapter<CustomAdapter_Slot
             siv_slot = itemView.findViewById(R.id.siv_slot_List_Item_Slot);
         }
     }
-
 }
